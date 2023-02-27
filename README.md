@@ -1,3 +1,3 @@
-# Visualizing-filters-of-a-CNN-using-TensorFlow
+# Machine Learning and AI
 
-Using VGG16 model from TensorFlow, various filters from the different layers of the CNN were visualized. Weights were trained from the popular 'imagenet' dataset. Gradient ascent is used to visualize images that maximally activate specific filters from different layers of the model.
+This repositry contains some of my works in Machine Learning and Deep Learning using frameworks like TensorFlow and PyTorch. 
